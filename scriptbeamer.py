@@ -46,7 +46,7 @@ def criar_slide():
 
 
 
-lista_slides = ['\\documentclass{beamer} \n\\usepackage[utf8]{inputenc} \n']
+lista_slides = ['\\documentclass{beamer} \n\\usepackage[utf8]{inputenc} \n\\usepackage[brazil]{babel}\n\\usepackage{amsmath,amsfonts,amssymb,makeidx,graphicx}\n']
 
 saida = True
 
